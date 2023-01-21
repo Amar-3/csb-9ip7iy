@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://amar-3.github.io/csb-9ip7iy/static/js/main.8c91c7b8.chunk.js",
+    "main.js.map": "https://amar-3.github.io/csb-9ip7iy/static/js/main.8c91c7b8.chunk.js.map",
+    "runtime-main.js": "https://amar-3.github.io/csb-9ip7iy/static/js/runtime-main.ced8c4fd.js",
+    "runtime-main.js.map": "https://amar-3.github.io/csb-9ip7iy/static/js/runtime-main.ced8c4fd.js.map",
+    "static/js/2.bd296347.chunk.js": "https://amar-3.github.io/csb-9ip7iy/static/js/2.bd296347.chunk.js",
+    "static/js/2.bd296347.chunk.js.map": "https://amar-3.github.io/csb-9ip7iy/static/js/2.bd296347.chunk.js.map",
+    "index.html": "https://amar-3.github.io/csb-9ip7iy/index.html",
+    "static/js/2.bd296347.chunk.js.LICENSE.txt": "https://amar-3.github.io/csb-9ip7iy/static/js/2.bd296347.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced8c4fd.js",
+    "static/js/2.bd296347.chunk.js",
+    "static/js/main.8c91c7b8.chunk.js"
+  ]
+}
